@@ -1,2 +1,2 @@
 # Coffee-shop-priskalkulator
-I dette repoet finner du utgangspunktet for å lage en priskalkulator til en kafé. Bytt ut README.md med en beskrivelse av prosjektet ditt.
+Her skal jeg lage kaffe. Du kjører programmet med run python file. programmet gir deg valg om hvilke kaffe du vil ha, størrelse og om du vil ta med eller ikke. det fungerer med if eller elif som gir muligheten til flere valg.
